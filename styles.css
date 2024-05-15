@@ -1,5 +1,5 @@
 body {
-    background-color: #74b1eb;
+    background-color: #5f8f9b;
 }
 
 .calculadora {
@@ -25,9 +25,9 @@ body {
       background: #cccccc;
   }
   .calculadora .boton {
-      background-color: #d215cc;
+      background-color: #55becc;
       border: none;
-      color: white;
+      color: rgb(0, 0, 0);
       padding: 16px 32px;
       font-size: 16px;
       min-width: 21%;
